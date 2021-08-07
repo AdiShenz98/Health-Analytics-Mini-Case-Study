@@ -146,7 +146,7 @@ FROM user_measure_count;
 SELECT
 	COUNT(id) AS count_records
 FROM user_measure_count
-WHERE measure_count > 3;
+WHERE measure_count >= 3;
 ```
 <img align="left" src="Assets/result.svg" width="80" height="40" alt="adishenz" />
 
@@ -154,7 +154,7 @@ WHERE measure_count > 3;
 
 | count_records  |
 | :----------:   |
-|    174         |
+|    209         |
 
 ---
 
