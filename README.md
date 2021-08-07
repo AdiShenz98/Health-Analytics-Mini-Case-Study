@@ -184,7 +184,7 @@ WHERE measure_count >= 1000;
 
 <br>
 
-### Have logged bood glucose measurements?
+### How many users have logged bood glucose measurements and percentage users when compared to other measures?
 
 ```sql
 WITH active_users AS(
