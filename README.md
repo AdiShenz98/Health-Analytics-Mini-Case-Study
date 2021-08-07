@@ -263,7 +263,7 @@ WHERE unique_measures = 3;
 
 <br>
 
-### Have all 3 measures - blood glucose, weight and blood pressure?
+### What is the median systolic/diastolic blood pressure values?
 
 ```sql
 SELECT
