@@ -1,3 +1,4 @@
+![Health Analytics Banner](https://user-images.githubusercontent.com/49498445/128598497-344a567e-cebd-4006-b78c-ca83dda03b58.gif)
 <h1 align="center">Health Analytics Mini Case Study</h1>
 
 
